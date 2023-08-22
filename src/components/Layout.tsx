@@ -80,6 +80,9 @@ const Layout = () => (
           Refacciones
           <ArrowTopRightOnSquareIcon className="h-3 inline -translate-y-1" />
         </Footer.Link>
+        <Footer.Link href="https://www.tachyondevelopers.com/" target="_blank">
+          Desarrollado por Tachyon
+        </Footer.Link>
       </Footer.LinkGroup>
     </Footer>
   </div>
